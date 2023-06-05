@@ -80,9 +80,11 @@ void loop()
   Serial.println( "cm");
 }
 ```
-### output:
-![Screenshot (31)](https://github.com/Nithishramasaravanan/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/119394063/c3cfdf81-cf55-4e11-955a-25861b0bf24a)
-![Screenshot (30)](https://github.com/Nithishramasaravanan/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/119394063/e0f3a27f-4a83-46cd-8046-a3265997f757)
+Before Simulation:
+![Ex 04](https://github.com/Nithishramasaravanan/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/119394063/3d522cf9-b64d-4ac9-bce4-351fec5ab6d6)
+After Simulation:
+![ex 04 (2)](https://github.com/Nithishramasaravanan/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/119394063/3c08e042-813a-4897-a62a-e9201edcdb51)
+
 
 
 
